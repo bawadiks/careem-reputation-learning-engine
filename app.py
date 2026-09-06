@@ -16,7 +16,7 @@ with st.sidebar:
     st.write("**Learning loop**")
     st.write("Media + social → classify → compare action/reaction → learn → recommend")
 
-st.header("Good morning, Sarah.")
+st.header("Today's reputation intelligence")
 st.subheader("Here are the three conversations you shouldn't ignore today.")
 
 c1, c2, c3 = st.columns(3)
