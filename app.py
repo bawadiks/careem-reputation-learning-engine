@@ -6,7 +6,7 @@ st.set_page_config(page_title="Careem Reputation Learning Engine", page_icon="�
 
 st.title("Careem Reputation Learning Engine")
 st.caption("AI becomes the communications team's memory.")
-st.info("DEMO MODE — self-created sample data for prototype purposes.")
+st.caption("Prototype • Sample Data")
 
 with st.sidebar:
     st.header("Intelligence Scope")
